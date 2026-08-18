@@ -2,11 +2,7 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ⚙️ Back-End
 
-##  Sobre mim
-
-Atualmente estou construindo minha base em **Python, lógica de programação, SQL e Banco de Dados**, com o objetivo de me especializar em **Desenvolvimento Back-End**.
-
-Estou utilizando o GitHub para registrar minha evolução, compartilhar meus projetos e transformar cada aprendizado em prática.
+#### Estou utilizando o GitHub para registrar minha evolução, compartilhar meus projetos e transformar cada aprendizado em prática.
 
 ```python
 sobre_mim = {
@@ -42,15 +38,8 @@ sobre_mim = {
 
 ---
 
-## 📚 Atualmente estudando
 
-<img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="150"/>
-
-
----
-
-
-## 📫 Entre em contato
+## 📫 Contato
 
 <div align="center">
 
@@ -68,7 +57,6 @@ sobre_mim = {
 
 <div align="center">
 
-### 💙 Obrigada por visitar meu perfil!
 
 **Aprendendo, construindo e evoluindo todos os dias. 🚀**
 
