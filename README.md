@@ -46,32 +46,9 @@ sobre_mim = {
 
 <img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="150"/>
 
-```text
-🐍 Python
-🧠 Lógica de Programação
-📦 Estruturas de Dados
-🗄️ SQL
-💾 Banco de Dados
-🔗 APIs
-⚙️ Desenvolvimento Back-End
-🌐 Desenvolvimento Web
-```
 
 ---
 
-## 🎯 Objetivos
-
-* [ ] Consolidar minha base em Python
-* [ ] Aprender SQL
-* [ ] Aprofundar conhecimentos em Banco de Dados
-* [ ] Aprender APIs
-* [ ] Aprender um framework Back-End
-* [ ] Desenvolver projetos completos
-* [ ] Construir meu portfólio
-* [ ] Conseguir minha primeira oportunidade em tecnologia
-* [ ] Me tornar uma desenvolvedora Back-End
-
----
 
 ## 📫 Entre em contato
 
