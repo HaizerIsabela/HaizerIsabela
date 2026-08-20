@@ -1,17 +1,16 @@
 # Hii! 👋 I'm Isabela
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ⚙️ Back-End
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python 
 
-#### Estou utilizando o GitHub para registrar minha evolução, compartilhar meus projetos e transformar cada aprendizado em prática.
+#### Quero utilizar o GitHub para registrar minha evolução e compartilhar meus projetos
 
 ```python
 sobre_mim = {
     "nome": "Isabela Haizer",
     "formação": "Análise e Desenvolvimento de Sistemas",
-    "foco": "Desenvolvimento Back-End",
+    "foco": "Desenvolvimento Full-Stack",
     "linguagem_principal": "Python",
-    "estudando": ["Python", "SQL", "Banco de Dados", "APIs"],
-    "objetivo": "Me tornar uma desenvolvedora Back-End"
+    "estudando": ["Lógica de Programação, Python", "SQL", "Banco de Dados", "APIs"]
 }
 ```
 
@@ -58,5 +57,5 @@ sobre_mim = {
 <div align="center">
 
 
-**Aprendendo, construindo e evoluindo todos os dias. 🚀**
+**Aprendendo e construindo todos os dias. 🚀**
 
