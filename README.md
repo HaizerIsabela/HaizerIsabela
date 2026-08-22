@@ -10,7 +10,7 @@ sobre_mim = {
     "formação": "Análise e Desenvolvimento de Sistemas",
     "foco": "Desenvolvimento Full-Stack",
     "linguagem_principal": "Python",
-    "estudando": ["Lógica de Programação, Python", "SQL", "Banco de Dados", "APIs"]
+    "interesses": ["Tecnologia", "Jogos", "Animes", "Pesquisa", "Estudos"]
 }
 ```
 
